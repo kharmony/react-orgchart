@@ -1,6 +1,6 @@
 {
   "name": "@kharmony/react-orgchart",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "./dist/ChartContainer.js",
   "files": [
     "dist",
@@ -59,7 +59,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "publish:npm": "rm -rf dist && mkdir dist && npx babel src/components -d dist --copy-files"
+    "publish": "rm -rf dist && mkdir dist && npx babel src/components -d dist --copy-files"
   },
   "eslintConfig": {
     "extends": "react-app"
