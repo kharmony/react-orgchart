@@ -1,18 +1,18 @@
 ![OrgChart](http://dabeng.github.io/OrgChart/img/heading.svg)
 
-# [jQuery Version](https://github.com/dabeng/OrgChart)
-# [ES6 Version](http://github.com/dabeng/OrgChart.js)
-# [Web Components Version](http://github.com/dabeng/OrgChart-Webcomponents)
-# [Vue.js Version](https://github.com/dabeng/vue-orgchart)
-# [Angular Version -- the most space-saving solution](https://github.com/dabeng/ng-orgchart)
+This project was forked from @dabeng/react-orgchart(https://github.com/dabeng/react-orgchart) and includes the original features, with additional features as shown below. We will continue to maintain this project so contributions are welcome through pull requests.
 
-## Features
+## Original Features
 - expand/collapse nodes
 - Allows user to change orgchart structure by drag/drop nodes
 - Allows user to edit orgchart
 - Supports exporting chart as a picture or pdf document
 - Supports pan and zoom
 - Allows user to customize the internal structure for every node
+
+## Additional Features
+- Coming soon
+
 
 ## Props
 <table>
@@ -128,7 +128,7 @@
 
 ## Install
 ```
-npm install @dabeng/react-orgchart
+npm install @kharmony/react-orgchart
 ```
 
 ## [Demo](https://codesandbox.io/s/react-orgchart-demo-o3nf6)
@@ -177,27 +177,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
